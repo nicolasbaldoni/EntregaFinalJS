@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+}
+
+#particles-js {
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    z-index: -1;
+}
+
+#list-productos {
+    margin: 5%;
+    margin-top: 15%;
+}
+
+
+
+main #list-productos .row .col .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card {
+    border-color: #AA8756;
+}
+
+.card-title, .card-body {
+    text-align: center;
+}
+
+.btnCompra:hover {
+    background-color: #725730;
+}
+
+.btnCompra {
+    color: white;
+    background-color: #AA8756;
+    margin: 5%;
+}
+
+.offcanvas .offcanvas-body .table img{
+    width: 50%;
+    
+}
+
+
+.dropdown .dropdown-menu {
+    display: none;
+}
+
+.dropdown:hover>.dropdown-menu,
+.dropstart:hover>.dropdown-menu {
+    display: block;
+    margin-top: 0.125em;
+    margin-right: 0.125em;
+}
+
+
+@media screen and (min-width: 990px) {
+    .dropstart:hover>.dropdown-menu {
+        position: absolute;
+        top: 0;
+        right: 100%;
+    }
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+.dropstart .dropdown-toggle {
+    color: #AA8756;
+    margin-left: 1em;
+}
+
+.dropdown-item:hover {
+    background-color: #AA8756;
+    color: #fff;
+}
+
+@media screen and (min-width:992px) {
+    .dropstart .dropdown-toggle {
+        margin-left: .5em;
+    }
+}

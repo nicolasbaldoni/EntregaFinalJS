@@ -1,0 +1,107 @@
+[
+    {
+        "id": "01",
+        "nombre_producto": "Giratiempo",
+        "urlImg": "./img/collar_giratiempo.png",
+        "etiqueta": "Collares",
+        "precio": "9000"
+    },
+    {
+        "id": "02",
+        "nombre_producto": "Reliquias de la Muerte",
+        "urlImg": "./img/collar_reliquias.png",
+        "etiqueta": "Collares",
+        "precio": "8500"
+    },
+    {
+        "id": "03",
+        "nombre_producto": "Articulos Gryffindor",
+        "urlImg": "./img/productos_gryffindor.png",
+        "etiqueta": "Gryffindor",
+        "precio": "89000"
+    },
+    {
+        "id": "04",
+        "nombre_producto": "Articulos Hufflepuff",
+        "urlImg": "./img/productos_hufflepuff.png",
+        "etiqueta": "Hufflepuff",
+        "precio": "89000"
+    },
+    {
+        "id": "05",
+        "nombre_producto": "Articulos Ravenclaw",
+        "urlImg": "./img/productos_ravenclaw.png",
+        "etiqueta": "Ravenclaw",
+        "precio": "89000"
+    },
+    {
+        "id": "06",
+        "nombre_producto": "Articulos Slytherin",
+        "urlImg": "./img/productos_slytherin.png",
+        "etiqueta": "Slytherin",
+        "precio": "89000"
+    },
+    {
+        "id": "07",
+        "nombre_producto": "Tunica Slytherin",
+        "urlImg": "./img/tunica_slytherin.png",
+        "etiqueta": "Slytherin",
+        "precio": "45000"
+    },
+    {
+        "id": "08",
+        "nombre_producto": "Tunica Gryffindor",
+        "urlImg": "./img/tunica_gryffindor.png",
+        "etiqueta": "Gryffindor",
+        "precio": "45000"
+    },
+    {
+        "id": "09",
+        "nombre_producto": "Tunica Ravenclaw",
+        "urlImg": "./img/tunica_ravenclaw.png",
+        "etiqueta": "Ravenclaw",
+        "precio": "45000"
+    },
+    {
+        "id": "10",
+        "nombre_producto": "Tunica Hufflepuff",
+        "urlImg": "./img/tunica_hufflepuff.png",
+        "etiqueta": "Hufflepuff",
+        "precio": "45000"
+    },
+    {
+        "id": "11",
+        "nombre_producto": "Varita Bellatrix",
+        "urlImg": "./img/varita_bellatrix.png",
+        "etiqueta": "Varitas",
+        "precio": "15000"
+    },
+    {
+        "id": "12",
+        "nombre_producto": "Varita Dumbledore",
+        "urlImg": "./img/varita_dumbledore.png",
+        "etiqueta": "Varitas",
+        "precio": "15000"
+    },
+    {
+        "id": "13",
+        "nombre_producto": "Varita Harry Potter",
+        "urlImg": "./img/varita_harry.png",
+        "etiqueta": "Varitas",
+        "precio": "15000"
+    },
+    {
+        "id": "14",
+        "nombre_producto": "Varita Hermione",
+        "urlImg": "./img/varita_hermione.png",
+        "etiqueta": "Varitas",
+        "precio": "15000"
+    },
+    {
+        "id": "15",
+        "nombre_producto": "Varita Voldemort",
+        "urlImg": "./img/varita_voldemort.png",
+        "etiqueta": "Varitas",
+        "precio": "15000"
+    }
+]
