@@ -83,7 +83,6 @@ const actualizarNumeroComprasCarrito = () => {
         cantProductos = 0;
     }
 
-    console.log(cantProductos)
     numeroCarrito.innerHTML = cantProductos;
 }
 

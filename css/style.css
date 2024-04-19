@@ -42,6 +42,27 @@ main #list-productos .row .col .card img {
     margin: 5%;
 }
 
+#btnFinalizarCompra:hover{
+    color:whitesmoke;
+    background-color: #725730;
+}
+
+#btnFinalizarCompra{
+    font-weight: bold;
+    color: white;
+    background-color: #AA8756;
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}
+
+#containerBtnFinCompra{
+    margin-top: 10%;
+}
+
+/* Rompe un poco la estetica pero quiero que la tabla se aprecie (al menos en mi pantalla) */
+.offcanvas {
+    width: 500px !important;
+}
+
 .offcanvas .offcanvas-body .table img{
     width: 50%;
     
